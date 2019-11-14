@@ -1,0 +1,17 @@
+{
+  "name": "swaggertocsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node swaggertocsv.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^12.12.7",
+    "moment": "^2.24.0",
+    "readline": "^1.3.0"
+  }
+}
